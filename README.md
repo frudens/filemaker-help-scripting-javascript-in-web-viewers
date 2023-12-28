@@ -9,8 +9,13 @@
 
 ## YouTube
 
-- [FileMakerのヘルプの通りに実装したアプリで JavaScript と Webビューア の連携（FileMaker Pro 編） - YouTube](https://www.youtube.com/watch?v=yTMcM8-PENA)
-- [FileMakerのヘルプの通りに実装したアプリで JavaScript と Webビューア の連携（WebDirect 編） - YouTube](https://www.youtube.com/watch?v=n_BFxevr-Gw)
+### FileMakerのヘルプの通りに実装したアプリで JavaScript と Webビューア の連携（FileMaker Pro 編）
+
+[![FileMakerのヘルプの通りに実装したアプリで JavaScript と Webビューア の連携（FileMaker Pro 編）](http://img.youtube.com/vi/yTMcM8-PENA/0.jpg)](https://www.youtube.com/watch?v=yTMcM8-PENA)
+
+### FileMakerのヘルプの通りに実装したアプリで JavaScript と Webビューア の連携（WebDirect 編）
+
+[![FileMakerのヘルプの通りに実装したアプリで JavaScript と Webビューア の連携（WebDirect 編）](http://img.youtube.com/vi/n_BFxevr-Gw/0.jpg)](https://www.youtube.com/watch?v=n_BFxevr-Gw)
 
 ## スクリーンショット
 
